@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ari
-- 👀 I’m interested in FrontEnd Developer
+- 👀 I’m interested in Mobile Android and Website Dev
 - 🌱 I’m currently learning Android Mobile
 - 📫 How to reach me on LinkedIn
 
