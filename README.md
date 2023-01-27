@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ari
 - 👀 I’m interested in Mobile Android and Website Dev
-- 🌱 I’m currently learning Android Mobile
+- 🌱 I’m currently learning CodeIgniter4 && Cloud
 - 📫 How to reach me on LinkedIn
 
 <!---
