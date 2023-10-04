@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ari
+- 👋 Hi, I’m officaly ayik
 - 👀 I’m interested in Mobile Android and Website Dev
 - 🌱 I’m currently learning Laravel dan JSP
 - 📫 How to reach me on LinkedIn
